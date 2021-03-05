@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### 🎓 I am a second year Computer Science student @ McGill University
-### 👔 I am currently seeking an internship for the summer of 2021!
+### 👔 Incoming Software Developer Intern @ SSENSE
 ### 📫 [Contact me](mailto:marco.caniglia@mail.mcgill.ca)
 ### 🤝 My [LinkedIn](https://www.linkedin.com/in/marco-caniglia-465749141/) profile 
 
