@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### 🎓 I am a second year Computer Science student @ McGill University
-#### 👔 Incoming Full Stack Developer Intern @ SSENSE
+#### 👔 Full Stack Developer Intern @ SSENSE & Web Developer @ NetX Case Competitions
 #### 📫 [Contact me](mailto:marco.caniglia@mail.mcgill.ca)
 #### 🤝 My [LinkedIn](https://www.linkedin.com/in/marco-caniglia-465749141/) profile 
 
