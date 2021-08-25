@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-#### 🎓  I am a second year Computer Science student @ McGill University
+#### 🎓  I am a third year Computer Science student @ McGill University
 #### 👔  Software Developer Intern @ [SSENSE](https://www.ssense.com/en-ca) 
 #### 💻  Web Developer @ [NetX Case Competitions](https://netx2021.ca/) 
-#### 📫  [Contact me](mailto:marco.caniglia@mail.mcgill.ca)
-#### 🤝  My [LinkedIn](https://www.linkedin.com/in/marco-caniglia-465749141/) profile 
+#### 🤝  My [LinkedIn](https://www.linkedin.com/in/marco-caniglia-465749141/) profile & [email](mailto:marco.caniglia@mail.mcgill.ca)
 
 <!--
 **mcaniglia16/mcaniglia16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
