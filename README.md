@@ -2,7 +2,6 @@
 
 #### 🎓  I am a third year Computer Science student @ McGill University
 #### 👔  Software Developer Intern @ [SSENSE](https://www.ssense.com/en-ca) 
-#### 💻  Web Developer @ [NetX Case Competitions](https://netx2021.ca/) 
 #### 🤝  My [LinkedIn](https://www.linkedin.com/in/marco-caniglia-465749141/) profile & [email](mailto:marco.caniglia@mail.mcgill.ca)
 
 <!--
