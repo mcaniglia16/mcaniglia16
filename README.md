@@ -1,20 +1,26 @@
-## Hi there 👋
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### 🎓  I am a third year Computer Science student @ McGill University
-#### 👔  Software Developer Intern @ [SSENSE](https://www.ssense.com/en-ca) 
-#### 🤝  My [LinkedIn](https://www.linkedin.com/in/marco-caniglia-465749141/) profile & [email](mailto:marco.caniglia@mail.mcgill.ca)
+<img src = 'https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-9.gif' alt = 'Scifi Computers' align='right' width="350"/>
 
-<!--
-**mcaniglia16/mcaniglia16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Marco's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Marco's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a> -->
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Caniglia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marco-caniglia/)](https://www.linkedin.com/in/marco-caniglia-465749141/) [![GitHub followers](https://img.shields.io/github/followers/mcaniglia16?label=Follow&style=social)](https://github.com/mcaniglia16/?tab=follow)  [![Gmail Badge](https://img.shields.io/badge/-mcaniglia16-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:marco.caniglia@mail.mcgill.ca)](mailto:marco.caniglia@mail.mcgill.ca)  ![](https://visitor-badge.glitch.me/badge?page_id=mcaniglia16)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## Hi! I'm Marco, a third year Computer Science student at McGill University! <img src = 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png' alt = 'McGill badge' width="20"/>
+
+<hr />
+
+#### Former Software Developer intern at [SSENSE](https://www.ssense.com/en-ca)
+#### Incoming Software Engineer intern at [CloudOps](https://www.cloudops.com/) 
+
+<hr />
+
+## Tools I've used in the past
+<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/JS.png' width='30'/>
