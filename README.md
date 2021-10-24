@@ -9,7 +9,7 @@
   <img align="left" alt="Marco's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Caniglia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marco-caniglia/)](https://www.linkedin.com/in/marco-caniglia-465749141/) [![GitHub followers](https://img.shields.io/github/followers/mcaniglia16?label=Follow&style=social)](https://github.com/mcaniglia16/?tab=follow)  [![Gmail Badge](https://img.shields.io/badge/-marco.caniglia@mail.mcgill.ca-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:marco.caniglia@mail.mcgill.ca)](mailto:marco.caniglia@mail.mcgill.ca)  ![](https://visitor-badge.glitch.me/badge?page_id=mcaniglia16)
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Caniglia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marco-caniglia/)](https://www.linkedin.com/in/marco-caniglia-465749141/) [![GitHub followers](https://img.shields.io/github/followers/mcaniglia16?label=Follow&style=social)](https://github.com/mcaniglia16/?tab=follow)  [![Gmail Badge](https://img.shields.io/badge/-marco.caniglia@mail.mcgill.ca-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:marco.caniglia@mail.mcgill.ca)](mailto:marco.caniglia@mail.mcgill.ca)
 
 <br />
 
