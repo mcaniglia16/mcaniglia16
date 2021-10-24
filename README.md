@@ -28,7 +28,7 @@
 <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/spring.png' width='40'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vue.png' width='30'/> 
 
 ## Tools I am using now
-<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/python.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/aws.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vscode.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/java.png' width='35'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/scikit.png' width='35'/>
+<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/python.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/scikit.png' width='35'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/aws.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vscode.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/java.png' width='35'/> 
 
 ## 📚 Interesting blog posts I think you should read 
 1. [Domain-Driven Design: Everything You Always Wanted to Know About it, But Were Afraid to Ask](https://medium.com/ssense-tech/domain-driven-design-everything-you-always-wanted-to-know-about-it-but-were-afraid-to-ask-a85e7b74497a) - medium/SSENSE-Tech 
