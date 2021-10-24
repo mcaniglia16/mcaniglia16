@@ -13,7 +13,7 @@
 
 <br />
 
-## Hi! I'm Marco, a third year Computer Science student at McGill University! <img src = 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png' alt = 'McGill badge' width="20"/>
+## Hi! I'm Marco (he/him), a third year Computer Science student at McGill University! <img src = 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png' alt = 'McGill badge' width="20"/>
 
 <hr />
 
@@ -23,10 +23,15 @@
 <hr />
 
 ## Tools I've used in the past
-<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/JS.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/TS.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/node.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/docker.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/serverless.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/mocha.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/sinon.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/postman.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/webstorm.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/react.png' width='30'/>
+<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/JS.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/TS.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/node.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/react.png' width='35'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/docker.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/serverless.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/mocha.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/sinon.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/postman.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/webstorm.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/mongo.png' width='35'/> 
 
 ## Tools I am learning
-<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/spring.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vue.png' width='40'/> 
+<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/spring.png' width='40'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vue.png' width='30'/> 
 
 ## Tools I am using now
-<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/python.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/aws.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vscode.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/java.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/scikit.png' width='35'/>
+<img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/python.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/aws.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vscode.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/java.png' width='35'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/scikit.png' width='35'/>
+
+## 📚 Interesting blog posts you should read 
+1. [Domain-Driven Design: Everything You Always Wanted to Know About it, But Were Afraid to Ask](https://medium.com/ssense-tech/domain-driven-design-everything-you-always-wanted-to-know-about-it-but-were-afraid-to-ask-a85e7b74497a) - medium/SSENSE-Tech 
+2. [Adopting an Event-Driven Architecture: A comparative look at AWS messaging solutions — SQS](https://medium.com/ssense-tech/adopting-an-event-driven-architecture-a-comparative-look-at-aws-messaging-solutions-sqs-94f5532d68b2) - medium/SSENSE-Tech
+3. Coming soon...
