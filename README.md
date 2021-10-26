@@ -24,7 +24,7 @@
 ## Tools I've used in the past
 <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/JS.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/TS.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/node.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/react.png' width='35'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/docker.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/serverless.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/mocha.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/sinon.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/postman.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/webstorm.png' width='30'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/mongo.png' width='35'/> 
 
-## Tools I am learning
+## Tools I want to learn
 <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/spring.png' width='40'/> <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/vue.png' width='30'/> 
 
 ## Tools I am using now
