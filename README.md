@@ -16,8 +16,9 @@
 ## Hi! I'm Marco (he/him), a third year Computer Science student at McGill University. <img src = 'https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png' alt = 'McGill badge' width="20"/>
 <hr />
 
-#### Former Software Developer intern at [SSENSE](https://www.ssense.com/en-ca)
-#### Incoming Software Engineer intern at [CloudOps](https://www.cloudops.com/) 
+#### Former Software Developer intern at [SSENSE](https://www.ssense.com/en-ca) (Summer 21)
+#### Incoming Software Engineer intern at [CloudOps](https://www.cloudops.com/) (Winter 22)
+#### Incoming SDE intern at Amazon (Summer 22)
 
 <hr />
 
