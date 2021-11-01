@@ -18,7 +18,7 @@
 
 #### Former Software Developer intern at [SSENSE](https://www.ssense.com/en-ca) (Summer 21)
 #### Incoming Software Engineer intern at [CloudOps](https://www.cloudops.com/) (Winter 22)
-#### Incoming SDE intern at Amazon (Summer 22)
+#### Incoming Software Engineer intern at Amazon (Summer 22)
 
 <hr />
 
@@ -37,9 +37,8 @@
 3. Coming soon...
 
 ## 💻 What I'm currently up to
-* Looking for a summer '22 internship
 * Learning about data science & machine learning at McGill
-* Studying the theory of computation
+* Studying the theory of computation & numerical methods
 * Building a small project to familiarize myself with Java Spring and Vue.js
 
 ## Other stuff
