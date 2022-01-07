@@ -17,7 +17,7 @@
 <hr />
 
 #### Former Software Developer intern at [SSENSE](https://www.ssense.com/en-ca) (Summer 21)
-#### Incoming Software Engineer intern at [CloudOps](https://www.cloudops.com/) (Winter 22)
+#### Cloud Developer intern at [CloudOps](https://www.cloudops.com/) (Winter 22)
 #### Incoming Software Engineer intern at Amazon (Summer 22)
 
 <hr />
