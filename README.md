@@ -9,9 +9,9 @@
 </a> -->
 
 <kbd>
-<img src = 'https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-10.gif' alt = 'Scifi Computers' width="250"/> 
-<img src = 'https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-7.gif' alt = 'Scifi Computers' width="250"/>
-<img src = 'https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-12.gif' alt = 'Scifi Computers' width="250"/>
+<img src = 'https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-10.gif' alt = 'Scifi Computers' width="260"/> 
+<img src = 'https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-7.gif' alt = 'Scifi Computers' width="260"/>
+<img src = 'https://digitalsynopsis.com/wp-content/uploads/2016/05/sci-fi-monochromatic-gif-animations-carl-burton-12.gif' alt = 'Scifi Computers' width="260"/>
 </kbd>
 
 <br />
