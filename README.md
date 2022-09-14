@@ -16,9 +16,18 @@
 
 <br />
 
-### Hey, I'm Marco (he/him), a fourth year Computer Science student at McGill University. 
+### Hey, I'm Marco (he/him), a fourth year Computer Science student at McGill University.
 
-#### This past year, I was a Cloud Developer Intern at CloudOps <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/CloudOps-logo.png' width='30'/> in the winter, where I implemented features for the AWS integration of the CloudMC platform. CloudMC is an edge orchestration platform for cloud service providers which helps developers deploy, operate and monetize cloud resources. This summer, I joined Amazon's Alexa organization, where I implemented features for the calendar team. My focus was adding feature support for a prototype device, which is set to launch by the end of the year.
+#### My year so far...
+
+### Winter 20222 <img src = 'https://github.com/mcaniglia16/mcaniglia16/blob/main/icons/CloudOps-logo.png' width='30'/>
+This past winter, I was a Cloud Developer Intern at CloudOps  in the winter, where I implemented features for the AWS integration of the CloudMC platform. CloudMC is an edge orchestration platform for cloud service providers which helps developers deploy, operate and monetize cloud resources. 
+
+### Summer 2022
+This summer, I joined Amazon's Alexa organization, where I implemented features for the calendar team. My focus was adding feature support for a prototype device, which is set to launch by the end of the year.
+
+### Fall 2022
+I recently joined a brand new startup called Centro Commerce. Centro is an ecommerce platform that allows businesses to better manage their inventory and orders. The platform has native integrations with Shopify and thus provides store owners accurate numbers which allows them to make better decisions for their businesses.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marco%20Caniglia-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marco-caniglia/)](https://www.linkedin.com/in/marco-caniglia-465749141/) [![GitHub followers](https://img.shields.io/github/followers/mcaniglia16?label=Follow&style=social)](https://github.com/mcaniglia16/?tab=follow)  [![Gmail Badge](https://img.shields.io/badge/-marco.caniglia@mail.mcgill.ca-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:marco.caniglia@mail.mcgill.ca)](mailto:marco.caniglia@mail.mcgill.ca)
 
@@ -38,11 +47,3 @@
 1. [Domain-Driven Design: Everything You Always Wanted to Know About it, But Were Afraid to Ask](https://medium.com/ssense-tech/domain-driven-design-everything-you-always-wanted-to-know-about-it-but-were-afraid-to-ask-a85e7b74497a) - medium/SSENSE-Tech 
 2. [Adopting an Event-Driven Architecture: A comparative look at AWS messaging solutions — SQS](https://medium.com/ssense-tech/adopting-an-event-driven-architecture-a-comparative-look-at-aws-messaging-solutions-sqs-94f5532d68b2) - medium/SSENSE-Tech
 3. Coming soon...
-
-## 💻 What I'm currently up to
-* Learning about data science & machine learning at McGill
-* Studying the theory of computation & numerical methods
-* Building a small project to familiarize myself with Java Spring and Vue.js
-
-## Other stuff
-* [My resume](https://www.linkedin.com/in/marco-caniglia-465749141/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACJ1p00BJTpBaXiVpiSNyfEG2j7Gz79HRfI,1635470624992)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2F4J%2BkfEXQ%2FCNP6qaDyjtNg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
